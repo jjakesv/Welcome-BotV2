@@ -24,7 +24,7 @@ const guildConfigSchema = new mongoose.Schema({
   welcomeDmMessage: {
     type: String,
     default:
-      "Welcome to {server}! Please read the rules and have fun!\n\n*Powered by Umbra X Development*\nhttps://discord.gg/Whq4T2vYPP",
+      "Welcome to {server}! Please read the rules and have fun!\n\n*Powered by Umbra X Development x NJGhosting*",
   },
   welcomeEmoji: { type: String, default: "👋" },
 
