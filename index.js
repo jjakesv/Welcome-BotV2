@@ -44,10 +44,8 @@ const { registerCommands } = require("./commands/register");
 // Bot ready event
 client.once("ready", async () => {
   console.log("╔════════════════════════════════════════════════════════╗");
-  console.log(`║  Bot Online: ${client.user.tag.padEnd(37)}             ║`);
-  console.log(
-    "║  Made by Umbra X Development x NJGhosting x NJGhosting              ║"
-  );
+  console.log(`║  Bot Online: ${client.user.tag.padEnd(37)}  ║`);
+  console.log("║  Made by Umbra X Development x NJGhosting              ║");
   console.log("╚════════════════════════════════════════════════════════╝");
 
   await registerCommands(client, clientId, token);

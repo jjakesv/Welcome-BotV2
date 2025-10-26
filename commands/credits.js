@@ -18,7 +18,7 @@ module.exports = {
       .setDescription(
         "**Welcome & Goodbye Bot**\n" +
           "A feature-rich Discord bot with customizable welcome and goodbye systems.\n\n" +
-          "**Made by Umbra X Development x NJGhosting x NJGhosting**\n" +
+          "**Made by Umbra X Development x NJGhosting**\n" +
           "Join our community for support, updates, and more awesome bots!"
       )
       .addFields(
