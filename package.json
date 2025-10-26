@@ -1,9 +1,9 @@
 {
   "name": "welcome-goodbye-bot",
   "version": "1.0.0",
-  "description": "Discord bot with welcome and goodbye system - Made by Umbra X Development",
+  "description": "Discord bot with welcome and goodbye system - Made by Umbra X Development x NJGhosting",
   "main": "index.js",
-  "author": "Umbra X Development - https://discord.gg/Whq4T2vYPP",
+  "author": "Umbra X Development x NJGhosting",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"

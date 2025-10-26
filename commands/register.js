@@ -1,6 +1,6 @@
 /**
  * Command Registration
- * Made by Umbra X Development - https://discord.gg/Whq4T2vYPP
+ * Made by Umbra X Development x NJGhosting
  */
 
 const { REST, Routes } = require("discord.js");

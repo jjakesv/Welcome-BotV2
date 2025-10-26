@@ -1,6 +1,6 @@
 /**
  * Welcome & Goodbye Bot
- * Made by Umbra X Development x NJGhosting
+ * Made by Umbra X Development x NJGhosting x NJGhosting
  * https://discord.gg/Whq4T2vYPP
  */
 
@@ -45,7 +45,9 @@ const { registerCommands } = require("./commands/register");
 client.once("ready", async () => {
   console.log("╔════════════════════════════════════════════════════════╗");
   console.log(`║  Bot Online: ${client.user.tag.padEnd(37)}             ║`);
-  console.log("║  Made by Umbra X Development x NJGhosting              ║");
+  console.log(
+    "║  Made by Umbra X Development x NJGhosting x NJGhosting              ║"
+  );
   console.log("╚════════════════════════════════════════════════════════╝");
 
   await registerCommands(client, clientId, token);
