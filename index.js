@@ -48,7 +48,7 @@ client.once("ready", async () => {
   console.log("║  Made by Umbra X Development x NJGhosting              ║");
   console.log("╚════════════════════════════════════════════════════════╝");
 
-  await registerCommands(client, clientId);
+  await registerCommands(client, clientId, token);
 });
 
 // Member join/leave events
