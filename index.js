@@ -1,6 +1,6 @@
 /**
  * Welcome & Goodbye Bot
- * Made by Umbra X Development x NJGhosting x NJGhosting
+ * Made by Umbra X Development x NJGhosting
  * https://discord.gg/Whq4T2vYPP
  */
 
